@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;800&display=swap');
 
-body{
+body {
   font-family: 'Mulish', sans-serif;
   background: peachpuff;
 }
@@ -10,9 +10,12 @@ h2 {
   text-decoration: underline;
 }
 
-button{
+button {
   font-family: 'Mulish', sans-serif;
   background: brown;
   color: white;
   font-size: 120%;
+}
+footer {
+  text-align: center;
 }
